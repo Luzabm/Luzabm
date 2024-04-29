@@ -1,5 +1,5 @@
 <h1> Eai, meu nome é Luza 👋</h1>
-<h2>Perfil Trailblazer: https://www.salesforce.com/trailblazer/iyi7f6qivdruc04vvl </h2>
+<h2>Perfil Trailblazer: https://www.salesforce.com/trailblazer/luzabm </h2><br>
 
 # 📊 GitHub Stats:
 <img width="395px" src="https://github-readme-stats.vercel.app/api?username=Luzabm&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luzabm&layout=compact&langs_count=7&theme=neon"/>
