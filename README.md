@@ -1,4 +1,6 @@
-## Eai, meu nome é Luza 👋
+# Eai, meu nome é Luza 👋
+<hr>
+## Perfil Trailblazer: <a href ="https://www.salesforce.com/trailblazer/iyi7f6qivdruc04vvl"></a>
 
 # 📊 GitHub Stats:
 <img width="395px" src="https://github-readme-stats.vercel.app/api?username=Luzabm&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luzabm&layout=compact&langs_count=7&theme=neon"/>
